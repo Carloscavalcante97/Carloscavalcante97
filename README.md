@@ -1,51 +1,6 @@
 ## Hello there 
-<title>Sabre de Luz Vermelho em CSS</title>
-<style>
-    body {
-        background-color: black;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-        margin: 0;
-    }
-
-    .sabre {
-        width: 0;
-        height: 0;
-        border-left: 100px solid transparent;
-        border-right: 100px solid transparent;
-        border-bottom: 300px solid red;
-        border-radius: 50%;
-        position: relative;
-        animation: brilho 1s infinite alternate;
-    }
-
-    .sabre::before {
-        content: '';
-        width: 60px;
-        height: 60px;
-        background-color: red;
-        position: absolute;
-        bottom: -30px;
-        left: calc(50% - 30px);
-        border-radius: 50%;
-        animation: brilho 1s infinite alternate;
-    }
-
-    @keyframes brilho {
-        from {
-            filter: brightness(1);
-        }
-        to {
-            filter: brightness(1.5);
-        }
-    }
-</style>
-</head>
-<body>
-    <div class="sabre"></div>
-
+<img src="https://img.icons8.com/?size=100&id=RS8Kl2g6WCjK&format=png&color=000000"/>
+<img src="https://img.icons8.com/cotton/64/000000/star-wars.png" width="40" height="40" />
 
 
 <img src="https://img.icons8.com/?size=100&id=RS8Kl2g6WCjK&format=png&color=000000"/>
