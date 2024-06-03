@@ -1,4 +1,4 @@
-<h1>Hello there! 👋 <img src="https://lumiere-a.akamaihd.net/v1/images/image_24de51ea.gif" width="40 height="40"/></h1>
+<h1>Hello there!  <img src="https://lumiere-a.akamaihd.net/v1/images/image_24de51ea.gif" width="10 height="10"/></h1>
 
 - 👨‍🎓 I’m currently a student at Universidade Tiradentes.
   
