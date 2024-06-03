@@ -1,12 +1,71 @@
 ## Hello there 
+<title>Sabre de Luz Vermelho em CSS</title>
+<style>
+    body {
+        background-color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+    }
+
+    .sabre {
+        width: 0;
+        height: 0;
+        border-left: 100px solid transparent;
+        border-right: 100px solid transparent;
+        border-bottom: 300px solid red;
+        border-radius: 50%;
+        position: relative;
+        animation: brilho 1s infinite alternate;
+    }
+
+    .sabre::before {
+        content: '';
+        width: 60px;
+        height: 60px;
+        background-color: red;
+        position: absolute;
+        bottom: -30px;
+        left: calc(50% - 30px);
+        border-radius: 50%;
+        animation: brilho 1s infinite alternate;
+    }
+
+    @keyframes brilho {
+        from {
+            filter: brightness(1);
+        }
+        to {
+            filter: brightness(1.5);
+        }
+    }
+</style>
+</head>
+<body>
+    <div class="sabre"></div>
+
+
+
 <img src="https://img.icons8.com/?size=100&id=RS8Kl2g6WCjK&format=png&color=000000"/>
 - 👨‍🎓 I’m currently studying at Universidade Tiradentes.
+
+  
 - 💻 Languages that I use: <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" /> </div>
+
+
 - 🚀 Languages that I'm currently learning:<div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain-wordmark.svg" width="40" height="40" />,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" width="40" height="40" />   </div>     
+
+
 - 💬 Ask me about coding and anything!
+
+
 - 😄 Pronouns: He/Him.
+
+
 - ⚡ Fun fact: I love to play bass and watch movies (and pretend to have a huge critical sense on Letterbox).
 
 
