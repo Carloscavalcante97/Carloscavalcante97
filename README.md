@@ -1,9 +1,8 @@
 ## Hello there 
+
 <img src="https://img.icons8.com/?size=100&id=RS8Kl2g6WCjK&format=png&color=000000"/>
 <img src="https://img.icons8.com/cotton/64/000000/star-wars.png" width="40" height="40" />
 
-
-<img src="https://img.icons8.com/?size=100&id=RS8Kl2g6WCjK&format=png&color=000000"/>
 - 👨‍🎓 I’m currently studying at Universidade Tiradentes.
 
   
