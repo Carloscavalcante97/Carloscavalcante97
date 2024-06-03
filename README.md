@@ -22,8 +22,7 @@
 
 - ⚡ Fun fact: I'm passionate about playing bass and critiquing movies on Letterboxd (as if I'm a seasoned critic).
 
-- 📫 You can reach me via:
- <div style="display: flex; flex-direction: column;">
+- 📫 You can reach me via:    <div style="display: flex; flex-direction: column;">
   <a href="https://www.linkedin.com/in/antonio-dev-/" target="_blank" style="margin-bottom: 10px;">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
