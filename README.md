@@ -15,6 +15,6 @@
 
 <div>
 <a href="https://github.com/Carloscavalcante97">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloscavalcante97&layout=donut-vertical&langs_count=7&theme=ocean_dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloscavalcante97&layout=compact&langs_count=7&theme=ocean_dark"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Carloscavalcante97&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
 </div>
