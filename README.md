@@ -23,12 +23,12 @@
 - ⚡ Fun fact: I'm passionate about playing bass and critiquing movies on Letterboxd (as if I'm a seasoned critic).
 
 - 📫 You can reach me via:
-  <div>
-  <a href="https://www.linkedin.com/in/antonio-dev-/" target="_blank">
+ <div style="display: flex; flex-direction: column;">
+  <a href="https://www.linkedin.com/in/antonio-dev-/" target="_blank" style="margin-bottom: 10px;">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-<br>
-               <a href="mailto:carloscavalcante.developer@gmail.com">
+  
+  <a href="mailto:carloscavalcante.developer@gmail.com" style="margin-bottom: 10px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 
@@ -36,6 +36,7 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 </div>
+
 
 <div>
   <a href="https://github.com/Carloscavalcante97">
