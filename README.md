@@ -12,6 +12,6 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/antonio-dev-/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>, <a href = "mailto:carloscavalcante.developer@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>, <a href="https://www.instagram.com/antonio_cvt" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <div>
 <a href="https://github.com/Carloscavalcante97">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloscavalcante97&layout=compact&langs_count=7&theme=gruvbox"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Carloscavalcante97&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloscavalcante97&layout=compact&langs_count=7&theme=onedark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Carloscavalcante97&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
 </div>
