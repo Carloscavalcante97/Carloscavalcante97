@@ -20,7 +20,7 @@
     </a>  <a href="https://www.instagram.com/antonio_cvt" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
-  
+    <a href="https://www.dio.me/users/carloscavalcantte9722"><img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70"></a>
 
 
 
