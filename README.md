@@ -1,7 +1,9 @@
-<h1>Hello there! <img src="https://lumiere-a.akamaihd.net/v1/images/image_24de51ea.gif" style="width: 45px;" /></h1>
+**<h1>Hello there! <img src="https://lumiere-a.akamaihd.net/v1/images/image_24de51ea.gif" style="width: 45px;" /></h1>**
 
 
-- 👨‍🎓 I’m currently a student at Universidade Tiradentes.
+- 👨‍🎓 **I’m currently a student of Analysis, Development and Integration of Systems at Universidade Tiradentes.**
+
+-:speaking_head: Brazilian Portuguese 🇧🇷 (native), English 🇺🇲(Advanced)
   
 - 💻 Here are the languages I work with: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" />
 
@@ -13,6 +15,7 @@
 
 - ⚡ Fun fact: I'm passionate about playing bass and critiquing movies on Letterboxd (as if I'm a seasoned critic).
 
+    <div style="display: inline_block"> 
 - 📫 You can reach me via:   <a href="https://www.linkedin.com/in/antonio-dev-/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>  <a href="mailto:carloscavalcante.developer@gmail.com">
@@ -21,8 +24,7 @@
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
     <a href="https://www.dio.me/users/carloscavalcantte9722"><img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70"></a>
-
-
+  </div>
 
 <div>
   <a href="https://github.com/Carloscavalcante97">
