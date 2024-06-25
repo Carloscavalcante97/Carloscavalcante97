@@ -13,6 +13,7 @@
    Here are the programming and frameworks languages i use: 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -64,5 +65,5 @@
   <br>
 
   <a href="https://github.com/Carloscavalcante97">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloscavalcante97&layout=compact&langs_count=7&theme=ocean_dark"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Carloscavalcante97&show_icons=true&show=stars&theme=ocean_dark&include_all
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloscavalcante97&layout=compact&langs_count=7&theme=blue-green"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Carloscavalcante97&show_icons=true&show=stars&theme=blue-green&include_all"
