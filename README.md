@@ -20,6 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -66,4 +67,4 @@
 
   <a href="https://github.com/Carloscavalcante97">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloscavalcante97&layout=compact&langs_count=7&theme=blue-green"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Carloscavalcante97&show_icons=true&show=stars&theme=blue-green&include_all"
+  <img loading= "lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Carloscavalcante97&theme=blue-green"/>
