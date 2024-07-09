@@ -7,6 +7,7 @@
   <br>
 
    Brazilian Portuguese 🇧🇷 (native), English 🇺🇲(Advanced)
+<br>
    Pronouns: He/Him.
   <br>
 
