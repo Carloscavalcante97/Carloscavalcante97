@@ -7,7 +7,7 @@
   <br>
 
    Brazilian Portuguese 🇧🇷 (native), English 🇺🇲(Advanced)
-
+   Pronouns: He/Him.
   <br>
 
    Here are the programming and frameworks languages i use: 
@@ -29,11 +29,12 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
   <br>
-
-   Currently diving into:
+ Here are the bootcamps i have done: 
+ <img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" width="40" height="40" />
+   <br>
+  Currently diving into:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" width="40" height="40" />
-  <img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" width="40" height="40" />
 
   <br>
 
@@ -41,7 +42,7 @@
 
   <br>
 
-   Pronouns: He/Him.
+   
 
   <br>
 
