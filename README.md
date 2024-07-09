@@ -2,7 +2,8 @@
 
   <h1>Hello there! <img src="https://lumiere-a.akamaihd.net/v1/images/image_24de51ea.gif" style="width: 45px;" /></h1>
 
-  **I’m currently a student of Analysis, Development and Integration of Systems at Universidade Tiradentes.**
+  **My name is Antônio Cavalcante and i'm currently a student of Analysis, Development and Integration of Systems at Universidade Tiradentes and 
+    passionate about playing bass and critiquing movies on Letterboxd (as if I'm a seasoned critic).**
 
   <br>
 
@@ -45,9 +46,7 @@
 
    
 
-  <br>
-
-  ⚡ Fun fact: I'm passionate about playing bass and critiquing movies on Letterboxd (as if I'm a seasoned critic).
+    <br>
 
   <br>
 
