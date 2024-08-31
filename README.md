@@ -2,7 +2,7 @@
 
   <h1>Hello there! <img src="https://lumiere-a.akamaihd.net/v1/images/image_24de51ea.gif" style="width: 45px;" /></h1>
 
-  **My name is Antônio Cavalcante i have 26 years old (my sign is: ♌️) and i'm currently a student of Analysis, Development and Integration of Systems at Universidade Tiradentes and 
+  **My name is Antônio Cavalcante i have 27 years old (my sign is: ♌️) and i'm currently a student of Analysis, Development and Integration of Systems at Universidade Tiradentes and 
     passionate about playing bass and critiquing movies on Letterboxd (as if I'm a seasoned critic).**
 
   <br>
