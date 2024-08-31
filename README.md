@@ -32,13 +32,12 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br>
  Here are the bootcamps i've done: 
- <img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" width="40" height="40" />
+ <img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" width="40" height="40" />,
  <img src="https://hermes.dio.me/tracks/c90e7979-b807-4941-895a-8d85564b142e.png" width="40" height="40" />
 
    <br>
   Currently diving into:
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" width="40" height="40" />,
   <img src="https://hermes.dio.me/courses/badge/37abee92-a5ea-4e0b-a3ca-73c689dd11a4.png" width="40" height="40" />
 
   <br>
