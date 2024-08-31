@@ -37,7 +37,6 @@
 
    <br>
   Currently diving into:
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" width="40" height="40" />,
   <img src="https://hermes.dio.me/courses/badge/37abee92-a5ea-4e0b-a3ca-73c689dd11a4.png" width="40" height="40" />
 
   <br>
