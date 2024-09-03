@@ -56,8 +56,8 @@
     <a href="https://www.linkedin.com/in/antonio-dev-/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="mailto:carloscavalcante.developer@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <a href="mailto:carlos.developer@icloud.com">
+      <img src="(https://www.flaticon.com/free-icon/logo_15465684)" alt="Gmail">
     </a>
     <a href="https://www.instagram.com/antonio_cvt" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
