@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+![image](https://github.com/user-attachments/assets/466be163-983e-4d03-8996-7166c2cf238e)<div style="text-align: center;">
 
   <h1>Hello there! <img src="https://lumiere-a.akamaihd.net/v1/images/image_24de51ea.gif" style="width: 45px;" /></h1>
 
@@ -57,7 +57,7 @@
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:carlos.developer@icloud.com">
-      <img src="(https://www.flaticon.com/free-icon/logo_15465684)" alt="Gmail">
+      <img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" alt="ICloud">
     </a>
     <a href="https://www.instagram.com/antonio_cvt" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
