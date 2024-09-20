@@ -1,8 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=190&color=09ca60"/>
-<div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=09ca60"/>
+<br><br>
+<div  align="center">
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=17F700&center=true&vCenter=true&width=435&lines=HELLO+THERE!++;My+name+is+Ant%C3%B4nio+Carlos;I'm+A+full+stack+software+developer;%26+i'm+from+Brazil)](https://git.io/typing-svg)
-
+<br><br>
 <img src="https://lumiere-a.akamaihd.net/v1/images/image_24de51ea.gif" style="width: 45px;" />
 <div/>
 
