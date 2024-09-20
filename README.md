@@ -54,7 +54,7 @@
 
   <br>
 
-   Feel free to ask me anything about coding or more!
+   <strong>Feel free to ask me anything about coding or more!<strong/>
 
   <br>
 
@@ -65,7 +65,7 @@
   <br>
 
   <div style="display: inline-block">
-     You can reach me via:
+     <p><strong>Reach out to me:<p/>
     <a href="https://www.linkedin.com/in/antonio-dev-/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
