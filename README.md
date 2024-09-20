@@ -31,13 +31,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br>
-
-<div style="display: inline_block" align="center">
- 
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carloscavalcante97?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=mess&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=green&dark_size=large&dark=true) 
-
-</div>
-
  Here are the bootcamps i've done: 
   <img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" width="40" height="40" />,
  <img src="https://hermes.dio.me/tracks/c90e7979-b807-4941-895a-8d85564b142e.png" width="40" height="40" />
@@ -45,6 +38,14 @@
    <br>
   Currently diving into:
    <img src="https://hermes.dio.me/courses/badge/37abee92-a5ea-4e0b-a3ca-73c689dd11a4.png" width="40" height="40" />
+   <br>
+
+<div style="display: inline_block" align="center">
+ 
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carloscavalcante97?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=mess&animation_duration=4&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=green&dark_size=large&dark=true) 
+
+</div>
+
 
   <br>
 
