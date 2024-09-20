@@ -1,6 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=shark&height=150&color=09ca60&fontColor=09CA60&section=header&reversal=false&descAlign=26"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=05AE0B&width=435&lines=Hello+there!;My+name+is+Ant%C3%B4nio+Carlos;I'm+A+full+stack+software+developer;Im+from+Brazil;And+be+welcome+to+my+profile!)](https://git.io/typing-svg)
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=05AE0B&width=500&height=150&lines=HELLO+THERE!;My+name+is+Ant%C3%B4nio+Carlos;I'm+A+full+stack+software+developer;%26+i'm+from+Brazil)](https://git.io/typing-svg)
+
+<div/>
+
 
   **I'm currently a student of Analysis, Development and Integration of Systems at Universidade Tiradentes and 
     passionate about playing bass and critiquing movies on Letterboxd (as if I'm a seasoned critic).**
