@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=05AE0B&width=435&lines=Hello+there!;My+name+is+Ant%C3%B4nio+Carlos;I'm+A+full+stack+software+developer;Im+from+Brazil;And+be+welcome+to+my+profile!)](https://git.io/typing-svg)
 
-  **and i'm currently a student of Analysis, Development and Integration of Systems at Universidade Tiradentes and 
+  **I'm currently a student of Analysis, Development and Integration of Systems at Universidade Tiradentes and 
     passionate about playing bass and critiquing movies on Letterboxd (as if I'm a seasoned critic).**
 
   <br>
