@@ -44,9 +44,8 @@
 
 <div style="display: inline_block" align="center">
  
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carloscavalcante97?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=mess&animation_duration=6&animation_delay=3.0&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=green&dark_size=large&dark=true) 
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carloscavalcante97?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=mess&animation_duration=6&animation_loop=true&animation_delay=3.0&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=green&dark_size=large&dark=true) 
 
-</div>
 
 
   <br>
