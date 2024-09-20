@@ -85,4 +85,7 @@
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Carloscavalcante97&theme=blue-green" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-geofmoura.vercel.app/api/top-langs/?username=Carloscavalcante97&show_icons=true&theme=blue-green&layout=compact" />
 </div>
+<br>
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=shark&height=150&color=09ca60&fontColor=09CA60&section=footer&reversal=false&descAlign=26"/>
