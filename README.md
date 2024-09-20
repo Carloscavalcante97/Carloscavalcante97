@@ -1,7 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=shark&color=09CA60"/>
 
-  <h1>Hello there! <img src="https://lumiere-a.akamaihd.net/v1/images/image_24de51ea.gif" style="width: 45px;" /></h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=05AE0B&width=435&lines=Hello+there!;My+name+is+Ant%C3%B4nio+Carlos;I'm+A+full+stack+software+developer;Im+from+Brazil;And+be+welcome+to+my+profile!)](https://git.io/typing-svg)
 
-  **My name is Antônio Cavalcante i have 27 years old (my sign is: ♌️) and i'm currently a student of Analysis, Development and Integration of Systems at Universidade Tiradentes and 
+  **and i'm currently a student of Analysis, Development and Integration of Systems at Universidade Tiradentes and 
     passionate about playing bass and critiquing movies on Letterboxd (as if I'm a seasoned critic).**
 
   <br>
@@ -12,7 +13,7 @@
    Pronouns: He/Him.
   <br>
 
-   Here are the programming and frameworks languages i use: 
+  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -65,7 +66,9 @@
   </div>
 
   <br>
-
-  <a href="https://github.com/Carloscavalcante97">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloscavalcante97&layout=compact&langs_count=7&theme=blue-green"/>
-  <img loading= "lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Carloscavalcante97&theme=blue-green"/>
+<div style="inline_block" align="center">
+  
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Carloscavalcante97&theme=blue-green" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-geofmoura.vercel.app/api/top-langs/?username=Carloscavalcante97&show_icons=true&theme=blue-green&layout=compact" />
+</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=shark&color=09CA60&rotate=180120&section=footer"/>
