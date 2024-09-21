@@ -2,28 +2,10 @@
 
 <div  align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=17F700&center=true&vCenter=true&width=435&lines=HELLO+THERE!++;My+name+is+Ant%C3%B4nio+Carlos;I'm+A+full+stack+software+developer;%26+i'm+from+Brazil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=463&color=07F730&center=true&vCenter=true&width=435&lines=HELLO+THERE!;My+name+is+Ant%C3%B4nio+Carlos;I'm+A+full+stack+developer;%26+made+in+BRAZIL!)](https://git.io/typing-svg)
 <br><br>
 <img src="https://lumiere-a.akamaihd.net/v1/images/image_24de51ea.gif" style="width: 45px;" />
-<div/>
 
-
-  **I'm currently a student of Analysis, Development and Integration of Systems at Universidade Tiradentes and 
-    passionate about playing bass and critiquing movies on Letterboxd (as if I'm a seasoned critic).**
-
-  <br>
-
-  <strong> Brazilian Portuguese 🇧🇷 (native), English 🇺🇲(Advanced) <strong/>
-<br>
-<strong> Here are the bootcamps i've done: <strong/>
-  <img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" width="40" height="40" />,
- <img src="https://hermes.dio.me/tracks/c90e7979-b807-4941-895a-8d85564b142e.png" width="40" height="40" /> <br>
-  <strong> Currently diving into:</strong>
-   <img src="https://hermes.dio.me/courses/badge/37abee92-a5ea-4e0b-a3ca-73c689dd11a4.png" width="40" height="40" />
-   <br>
-  <br>
-
-  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -47,7 +29,26 @@
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carloscavalcante97?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=mess&animation_duration=6&animation_loop=true&animation_delay=3.0&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=green&dark_size=large&dark=true) 
 
 
+<br>
+<div/>
 
+
+  **I'm currently a student of Analysis, Development and Integration of Systems at Universidade Tiradentes and 
+    passionate about playing bass and critiquing movies on Letterboxd (as if I'm a seasoned critic).**
+
+  <br>
+
+  <strong> Brazilian Portuguese 🇧🇷 (native), English 🇺🇲(Advanced) <strong/>
+<br>
+<strong> Here are the bootcamps i've done: <strong/>
+  <img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" width="40" height="40" />,
+ <img src="https://hermes.dio.me/tracks/c90e7979-b807-4941-895a-8d85564b142e.png" width="40" height="40" /> <br>
+  <strong> Currently diving into:</strong>
+   <img src="https://hermes.dio.me/courses/badge/37abee92-a5ea-4e0b-a3ca-73c689dd11a4.png" width="40" height="40" />
+   <br>
+  <br>
+
+  
   <br>
 
    <strong>Feel free to ask me anything about coding or more!<strong/>
