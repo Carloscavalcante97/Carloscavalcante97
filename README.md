@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=09ca60"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=70a5fd"/>
 
 <div  align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=463&color=07F730&center=true&vCenter=true&width=435&lines=HELLO+THERE!;My+name+is+Ant%C3%B4nio+Carlos;I'm+A+full+stack+developer;%26+made+in+BRAZIL!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=70A5FD&center=true&width=435&lines=HELLO+THERE!;My+name+is+Ant%C3%B4nio+Cavalcante;I'm+a+software+developer;Made+in+BRAZIL!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 <br><br>
 <img src="https://lumiere-a.akamaihd.net/v1/images/image_24de51ea.gif" style="width: 45px;" />
 
@@ -26,8 +26,7 @@
 
 <div style="display: inline_block" align="center">
  
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carloscavalcante97?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=mess&animation_duration=6&animation_loop=true&animation_delay=3.0&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=green&dark_size=large&dark=true) 
-
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carloscavalcante97?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=mess&animation_duration=6&animation_loop=true&animation_delay=3.0&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=cyan&dark_size=large&dark=true) 
 
 <br>
 <div/>
@@ -70,8 +69,8 @@
   <br>
 <div style="inline_block" align="center">
   
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Carloscavalcante97&theme=blue-green" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-geofmoura.vercel.app/api/top-langs/?username=Carloscavalcante97&show_icons=true&theme=blue-green&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Carloscavalcante97&theme=tokyonight" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-geofmoura.vercel.app/api/top-langs/?username=Carloscavalcante97&show_icons=true&theme=tokyonight&layout=compact" />
 </div>
 <br>
 
