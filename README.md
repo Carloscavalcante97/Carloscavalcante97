@@ -69,8 +69,7 @@
     </a>
     <a href="https://www.dio.me/users/carloscavalcantte9722"><img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70"></a>
   </div>
-  <br>
-  <a  href="https://github.com/Carloscavalcante97/Api-Postgres-REST"> Repositorios</a>
+
 
   <br>
 <div style="inline_block" align="center">
