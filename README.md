@@ -4,7 +4,7 @@
 
 <a href="https://portfolio2026-nine-zeta.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=3C78C8&center=true&vCenter=true&width=640&lines=Full-stack+engineer+%E2%80%94+NestJS+%C2%B7+Next.js+%C2%B7+React+Native;Python+for+data%2C+optimization+%26+process+mining;Building+AI+agents+and+multi-agent+pipelines;Automation+with+n8n%2C+LLMs+and+WhatsApp" alt="Full-stack engineer, Python for data, AI agents and automation" /></a>
 
-**Mid Level Software Engineer at Souv** · Recife, Brazil<br>
+**Mid-level Software Engineer at Souv** · Recife, Brazil<br>
 <sub>Technical owner of end-to-end modules from requirements to production deploy.</sub>
 
 <br>
@@ -71,22 +71,23 @@
 
 ### [pipeline-Claude](https://github.com/Carloscavalcante97/pipeline-Claude) · Multi-agent delivery pipeline
 
-One command turns a feature description into reviewed, tested code through specialized **Claude Code subagents**, with gates between every stage. Used daily on production systems  **~75% less time spent on fixes** compared to an unsupervised AI agent.
+One command turns a feature description into reviewed, tested code through specialized **Claude Code subagents**, with gates between every stage. Used daily on production systems, with **~75% less time spent on fixes** compared to a standalone AI agent.
 
 ```mermaid
 flowchart LR
     P([Planner<br/>spec]) --> C([Coder<br/>implementation])
     C --> S([Simplifier<br/>cuts over-engineering])
     S --> T([Tester<br/>unit tests])
-    T --> E([E2E Tester<br/>Playwright · HTTP])
+    T --> E([E2E Tester<br/>Playwright · API · Maestro])
     E --> R{Reviewer<br/>read-only}
-    R -- SHIP --> M[(main)]
+    R -- SHIP + human approval --> K([Committer<br/>conventional commits · PR])
     R -- NEEDS WORK · BLOCK --> P
 ```
 
 - **Spec first** — open questions halt the run until a human answers.
 - **Separation of duties** — testers never fix code; the Reviewer can't edit anything and issues `SHIP` · `NEEDS WORK` · `BLOCK`.
 - **Auditable** — agents hand off only through files, and every run is archived.
+- **Human in control** — nothing is committed, pushed or merged without explicit approval.
 
 [![Repo](https://img.shields.io/badge/View_repository-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carloscavalcante97/pipeline-Claude)
 
@@ -155,11 +156,12 @@ CLI that scaffolds production-minded full-stack projects: **NestJS, Express or F
 
 ## Experience
 
-- **Souv** · Software Engineer · `Oct 2025 – Present` — end-to-end web, mobile, data and AI modules; architecture, CI/CD and mentoring.
-- **Denzel Eventos** · Full Stack Developer · `2025` — unified ops system that **cut material losses by 70%+** and **raised efficiency by 35%**.
-- **Pontes Hotéis** · Development Intern · `2025` — support automation with chatbots, **raising CSAT by 15%**.
+- **Souv** · Mid-level Software Engineer · `Aug 2026 – Present` — end-to-end web, mobile, data and AI modules; architecture, CI/CD and mentoring.
+- **Souv** · Junior Software Engineer · `Oct 2025 – Aug 2026` — web and mobile applications with React, Next.js, React Native and NestJS.
+- **Denzel Eventos** · Full Stack Developer · `Jan 2025 – May 2025` — unified ops system that **cut material losses by 70%+** and **raised efficiency by 35%**.
+- **Pontes Hotéis** · Development Intern · `Jan 2025 – Oct 2025` — support automation with chatbots, **raising CSAT by 15%**.
 
-<sub>Systems Analysis and Development · Estácio (2024 – 2026) · Portuguese (native) · English (advanced) · Full history on [LinkedIn](https://linkedin.com/in/antonio-dev-)</sub>
+<sub>Systems Analysis and Development · Estácio · expected late 2027 · Portuguese (native) · English (advanced) · Full history on [LinkedIn](https://linkedin.com/in/antonio-dev-)</sub>
 
 <div align="center">
   <br>
